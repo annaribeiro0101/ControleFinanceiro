@@ -42,8 +42,7 @@
               "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T12:19:42.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T12:19:42.726Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Controllers\\ContasRotas.cs",
               "ToolTip": "C:\\Users\\anna.ribeiro\\Documents\\GitHub\\ControleFinanceiro\\Controllers\\ContasRotas.cs",
               "RelativeToolTip": "Controllers\\ContasRotas.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAIA/wBoAAAAxAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T12:18:42Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Model\\ContasAPagar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T12:19:48.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T12:19:48.74Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T11:27:50.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T11:27:50.757Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T10:58:08.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T10:58:08.442Z"
             }
           ]
         }

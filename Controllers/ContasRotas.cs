@@ -31,17 +31,17 @@ namespace ApiCrud.Controllers
             });
 
 
-            //rotasContas.MapGet("", async (AddContasRequest request, AppDbContext context) =>
-            //{
+            rotasContas.MapGet("", async (AppDbContext context) =>
+            {
 
-            //    var contas = await context.ContasAPagar.Where(conta => conta.Pago).ToListAsync();
+                var contas = await context.ContasAPagar.Where(conta => conta.Pago).ToListAsync();
 
 
-            //    return contas;
+                return contas;
 
-            //}
+            }
 
-            //);
+            );
 
         }
     }
